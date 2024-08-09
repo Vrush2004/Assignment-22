@@ -1,42 +1,9 @@
-*{
-    margin: 0;
-    padding: 0;
-}
-body{
-    background: rgba(0,0,0,0.7) url("./images/home_bg.jpg");
+.home-body{
+    background: rgba(0,0,0,0.7) url("../images/home_bg.jpg");
     background-repeat: no-repeat;
     background-size:cover;
     background-blend-mode: darken;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-}
-.container{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    margin: 20px;
-}
-.container h1{
-    color:orangered;
-    margin-left: 10px;
-    cursor: pointer;
-}
-.navbar ul li{
-    display: inline;
-    padding: 10px;
-    text-transform: uppercase;
-}
-.navbar ul li a{
-    text-decoration: none;
-    color: #fff;
-    padding: 4px;
-    transition: 2.5s;
-}
-.navbar ul li a:hover{
-    box-shadow: 0 3px 50px orangered inset, 0 3px 50px orangered inset,0 3px 50px orangered inset,0 3px 50px orangered inset;
-}
-.navbar .reservation{
-    padding: 8px;
-    background-color: orangered;
 }
 .content{
     position: absolute;
@@ -80,4 +47,9 @@ body{
     padding: 12px 25px;
     background-color: orangered;
     border-radius: 10px;
+}
+.submit a:hover{
+    box-shadow: 0 0 5px orangered,
+    0 0 25px orangered, 0 0 50px orangered,
+    0 0 100px orangered, 0 0 200px orangered;
 }
