@@ -1,3 +1,7 @@
 .about-body{
     background-color: rgb(11, 11, 44);
 }
+.about{
+    padding: 8px;
+    background-color: orangered;
+}

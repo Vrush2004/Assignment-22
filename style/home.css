@@ -1,3 +1,7 @@
+.home{
+    padding: 8px;
+    background-color: orangered;
+}
 .home-body{
     background: rgba(0,0,0,0.7) url("../images/home_bg.jpg");
     background-repeat: no-repeat;
