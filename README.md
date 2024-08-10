@@ -11,7 +11,7 @@ Welcome to the official repository for the Rich Cuisine Restaurant website. This
 ## Project Overview
 The **Rich Cuisine Restaurant** website is a static site built to present the restaurant’s unique offerings, including menu highlights, an introduction to the team, and contact information. 
 ### Live Demo
-Check out the live version of the site: **[Rich Cuisine Restaurant]**(https://resto-assignment22.netlify.app)
+Check out the live version of the site: **[Rich Cuisine Restaurant](https://resto-assignment22.netlify.app)**
 
 ## Features
 - **Home Page:** A visually appealing introduction to Rich Cuisine.
