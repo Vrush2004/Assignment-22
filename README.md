@@ -29,3 +29,7 @@ Check out the live version of the site: **[Rich Cuisine Restaurant](https://rest
 ## Usage
 - Explore the website by navigating through the different pages.
 - The website is designed to be fully responsive, so try resizing your browser or viewing it on different devices to see how the layout adjusts.
+
+## Home Page
+
+![first-page](https://github.com/user-attachments/assets/7e6744b3-c1cf-4e51-b8b5-790336df4d39)
